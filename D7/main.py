@@ -1,6 +1,10 @@
 import json
 import numpy as np
 
+# note to self, just use objects next time =.=
+
+
+
 with open('input.txt', 'r') as input_data:
     terminal_feed = [line.strip() for line in input_data.readlines()]
 
