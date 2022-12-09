@@ -44,7 +44,6 @@ def get_direction(point: tuple, destination: tuple):
 
 
 def move_head(direction):
-    global rope_positions
     rope_positions["H"] = add_coordinates(rope_positions["H"], directions[direction])
 
 
