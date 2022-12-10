@@ -26,10 +26,11 @@ def draw_pixel():
     sprite_positions = [x_value - 1, x_value, x_value + 1]
     # print(f"pixel at {pixel_position}, sprite at {sprite_positions}")
 
+    # made output more readable by replacing '#' with '█' and '.' with ' ' (space)
     if pixel_position in sprite_positions:
-        crt_out[display_row].append('#')
+        crt_out[display_row].append('█')
     else:
-        crt_out[display_row].append('.')
+        crt_out[display_row].append(' ')
 
 
 def add_cycle(x):
