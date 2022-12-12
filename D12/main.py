@@ -1,5 +1,6 @@
 from heapq import heappop, heappush
 
+
 class Node:
     def __init__(self, character, coordinates):
         self.height_char = character
@@ -73,7 +74,7 @@ def create_nodes(heightmap):
     return nodes, start_node, end_node
 
 
-def dijkstra(graph, source, end):
+def dijkstra(graph, source):
     graph = graph
     visited = {vertex: False for vertex in graph}
     distance = {vertex: 99999 for vertex in graph}
@@ -119,4 +120,3 @@ for node in a_nodes:
 previous, dist = dijkstra(nodes, start_node, end_node)
 print(f"Distance from {start_node} to {end_node} is {dist[end_node]}")
 print(f"Lowest scenic distance from {scenic_start} to {end_node} is {scenic_shortest}")
-
