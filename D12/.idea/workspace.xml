@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b26f59b8-9187-4986-a296-21b922cbf2f2" name="Changes" comment="" />
+    <list default="true" id="750915af-adbb-4838-aa51-9e21b298ff8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/D12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../D11/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +25,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2IlHtxX9RNO58EtmibkIlnsGD0j" />
+  <component name="ProjectId" id="2InrBJNQ82p2XY26kf4JGX4wSKp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +43,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="D11" />
+      <module name="D12" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -56,13 +68,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b26f59b8-9187-4986-a296-21b922cbf2f2" name="Changes" comment="" />
-      <created>1670749467111</created>
+      <changelist id="750915af-adbb-4838-aa51-9e21b298ff8e" name="Changes" comment="" />
+      <created>1670828051617</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670749467111</updated>
-      <workItem from="1670749468235" duration="14650000" />
-      <workItem from="1670828015247" duration="37000" />
+      <updated>1670828051617</updated>
+      <workItem from="1670828052928" duration="2221000" />
+      <workItem from="1670833373700" duration="14594000" />
     </task>
     <servers />
   </component>
@@ -81,6 +93,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/D11$main.coverage" NAME="main Coverage Results" MODIFIED="1670767583010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/D12$main.coverage" NAME="main Coverage Results" MODIFIED="1670859900816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
